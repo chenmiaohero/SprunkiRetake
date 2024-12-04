@@ -1,33 +1,34 @@
-# Sprunki Retake
-
-![Game Screenshot 1](sprunkiretake1.png)
-![Game Screenshot 2](sprunkiretake2.png)
-
-Welcome to Sprunki Retake Game, where horror meets rhythm in an unforgettable musical experience. This innovative game transforms traditional rhythm-based gameplay into a haunting journey through darkness and sound, offering players a unique way to create and experience music in a supernatural setting.
-
-## Play Now
-Experience the darkness firsthand:
+# Sprunki Retake - The Ultimate Incredibox Horror Mod
 https://sprunkiretakegame.com
 
-## About Sprunki Retake Game
-Dive into a world where music and horror collide. Our game offers a unique blend of rhythm-based gameplay with horror elements, creating an atmospheric experience that will keep you engaged for hours. Each beat, each note, and each visual element has been carefully crafted to immerse you in a world of dark musical creativity.
+![Sprunki Retake Screenshot 1](sprunkiretake1.png)
+![Sprunki Retake Screenshot 2](sprunkiretake2.png)
 
-## Getting Started
-1. **Enter the Darkness**: Launch into our shadowy musical realm
-2. **Choose Your Character**: Select from our roster of haunting characters
-3. **Create Your Mix**: Combine eerie sounds and supernatural beats
-4. **Explore**: Discover hidden combinations and unlock secret content
-5. **Perfect Your Craft**: Master the art of dark musical composition
+Experience Sprunki Retake, the revolutionary horror mod that transforms the classic Incredibox gameplay into a haunting musical journey. As the most innovative Sprunki game in the Incredibox mod community, Sprunki Retake offers a unique blend of rhythm and horror elements.
 
-## Key Features
-- **Horror-Themed Music Creation**: Blend spine-chilling sounds with rhythmic gameplay
-- **Unique Character Design**: Each character brings their own supernatural sounds and abilities
-- **Dynamic Visuals**: Experience stunning horror-inspired animations and effects
-- **Hidden Content**: Unlock secret combinations and special features
-- **Immersive Atmosphere**: Get lost in a world where horror and music become one
+## Play Sprunki Retake Now
+Start your dark musical journey with Sprunki Retake:
+https://sprunkiretakegame.com
 
-## The Ultimate Horror Music Experience
-Whether you're a fan of horror games or rhythm-based experiences, Sprunki Retake Game offers something truly unique. Our game doesn't just challenge your rhythm skills – it creates an atmospheric journey where every sound and visual element contributes to an unforgettable horror experience.
+## About Sprunki Retake
+Sprunki Retake reimagines the familiar Incredibox experience with a supernatural twist. This groundbreaking Sprunki mod combines haunting melodies with spine-chilling visuals, creating an atmospheric horror game experience that sets it apart from other Incredibox mods.
+
+## Getting Started with Sprunki Retake
+1. **Enter the Darkness**: Launch Sprunki Retake and step into its shadowy realm
+2. **Choose Your Character**: Select from unique Sprunki Retake characters
+3. **Create Your Mix**: Master the distinctive Sprunki sound system
+4. **Explore**: Uncover hidden Sprunki Retake combinations
+5. **Perfect Your Craft**: Become a master of dark musical composition
+
+## Key Features of Sprunki Retake
+- **Horror-Themed Music Creation**: A unique take on the Incredibox formula
+- **Distinctive Character Design**: Each Sprunki character brings unique abilities
+- **Dynamic Visuals**: Experience the dark world of Sprunki Retake
+- **Secret Content**: Discover hidden features exclusive to this Sprunki mod
+- **Immersive Horror**: The most atmospheric Incredibox mod experience
+
+## The Ultimate Sprunki Experience
+Whether you're a fan of the original Incredibox or new to Sprunki games, Sprunki Retake offers an unforgettable journey. This innovative Sprunki mod transforms rhythm-based gameplay into a haunting adventure that will keep you coming back for more.
 
 ## System Requirements
 - Modern web browser (Chrome, Firefox, Safari, Edge)

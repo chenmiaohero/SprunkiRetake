@@ -1,7 +1,7 @@
 # Sprunki Retake
 
-![Game Screenshot 1](https://raw.githubusercontent.com/chenmiaohero/Sprunkiretake/main/game-screenshot-1.png)
-![Game Screenshot 2](https://raw.githubusercontent.com/chenmiaohero/Sprunkiretake/main/game-screenshot-2.png)
+![Game Screenshot 1](sprunkiretake1.png)
+![Game Screenshot 2](sprunkiretake2.png)
 
 Welcome to Sprunki Retake Game, where horror meets rhythm in an unforgettable musical experience. This innovative game transforms traditional rhythm-based gameplay into a haunting journey through darkness and sound, offering players a unique way to create and experience music in a supernatural setting.
 

@@ -33,4 +33,3 @@ Whether you're a fan of horror games or rhythm-based experiences, Sprunki Retake
 - Modern web browser (Chrome, Firefox, Safari, Edge)
 - Stable internet connection
 - Audio output device
-- Recommended: Desktop or laptop computer for optimal experience

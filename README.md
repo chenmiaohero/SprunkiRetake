@@ -7,7 +7,7 @@ Welcome to Sprunki Retake Game, where horror meets rhythm in an unforgettable mu
 
 ## Play Now
 Experience the darkness firsthand:
-- [Play on sprunkiretakegame.com](https://sprunkiretakegame.com)
+https://sprunkiretakegame.com
 
 ## About Sprunki Retake Game
 Dive into a world where music and horror collide. Our game offers a unique blend of rhythm-based gameplay with horror elements, creating an atmospheric experience that will keep you engaged for hours. Each beat, each note, and each visual element has been carefully crafted to immerse you in a world of dark musical creativity.
